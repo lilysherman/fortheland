@@ -1,0 +1,143 @@
+/* CSS files add styling rules to your content */
+
+
+
+head {
+  background-color: #e2d8af;
+}
+
+.jumbotron{
+  background-color:#e2d8af;
+  /*background-color:none !important;*/
+}
+
+
+h1 {
+  color:rgb(56, 43, 32);
+  text-decoration: wavy;
+  font-weight: bold;
+  background-position: center;
+  font-size: 43pt;
+  
+}
+
+
+nav:link {
+  color:#e2d8af;
+}
+
+nav:visited {
+  color:#e2d8af;
+}
+
+nav:hover {
+  color:#a29973;
+}
+
+nav:active {
+  color:#a29973;
+}
+
+a {
+  color:#e2d8af;
+  font-weight: bold;
+  
+}
+
+a:link {
+  color: #e2d8af;
+}
+
+/* visited link */
+a:visited {
+  color:#e2d8af;
+}
+
+/* mouse over link */
+a:hover {
+  color: #242406;
+}
+
+/* selected link */
+a:active {
+  color: #242406;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+
+h2 {
+  font-weight: bold;
+}
+
+
+h3 {
+  font-weight: bold;
+}
+
+h5 {
+  font-style: italic;
+}
+
+p {
+  color:#e2d8af;
+  
+}
+
+header {
+  font-family: Garamond, serif; font-weight: 200;
+background-color: #e2d8af;
+}
+
+#nav {
+  background-color: #e2d8af;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+body {
+  font-family: Garamond, serif;
+  font-size: 16px;
+  color:#e2d8af;
+  background-color: #3f4011;
+  text-align: center;
+}
+
+footer {
+background-color: #3f4011;
+}
+
+ img {
+  max-width: 60%;
+  height: auto;
+} 
+
+
+
+/* .jumbotron {
+  background-color: black;
+  color: white;
+} */
+
+/* .navbar {
+  background-color: red !important;
+} */
